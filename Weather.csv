@@ -1,0 +1,7 @@
+﻿station_id,station,data_source,dataset_type,start_date,end_date,temperature,pressure,wind_speed,wind_direction,humidity,availability
+MAI,Maitri,IIG,AWS,2012,2016,Yes,Yes,Yes,Yes,Yes,Download/Search
+MAI,Maitri,IMD,AWS,1985,2000,Yes,Yes,Yes,—,—,Download/Search
+MAI,Maitri,IMD,AWS,2008,2016,Yes,Yes,Yes,—,—,Download/Search
+MAI,Maitri,SASE,AWS,2007,2015,Yes,Yes,Yes,—,—,Download
+BAR,Bharati,IIG,AWS,2012,2016,Yes,Yes,Yes,Yes,Yes,Download/Search
+BAR,Bharati,IMD,AWS,2015,2016,Yes,Yes,Yes,—,—,Download/Search

@@ -1,0 +1,4 @@
+station_id,station,year,station_age,fuel_type,annual_fuel_litres
+MAI,Maitri,2018.0,30.0,Jet A-1,575000.0
+MAI,Maitri,2019.0,31.0,Annual supply,360000.0
+BAR,Bharati,2020.0,8.0,Fuel,315000.0

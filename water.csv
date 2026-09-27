@@ -1,0 +1,7 @@
+﻿water_id,station_id,station,year,water_source,system_type,capacity_litres_day,data_status,source,notes
+W001,MAI,Maitri,1989,Lake water,Pumping system,,OBSERVED,NCPOR,Lake-water pump house supplies station water system
+W002,BAR,Bharati,2012,Seawater,Pumping system,,OBSERVED,NCPOR,Seawater pump house provides water supply
+W003,MAI,Maitri,1989,Lake water,Water supply,,UNAVAILABLE,NCPOR,Exact daily water production/consumption not publicly available
+W004,BAR,Bharati,2012,Seawater,Water supply,,UNAVAILABLE,NCPOR,Exact daily water production/consumption not publicly available
+W005,MAI,Maitri,1989,Water,Wastewater treatment,,OBSERVED,NCPOR,Wastewater/sanitation infrastructure available
+W006,BAR,Bharati,2012,Water,Wastewater treatment,,OBSERVED,NCPOR,Wastewater treatment/sanitation infrastructure available

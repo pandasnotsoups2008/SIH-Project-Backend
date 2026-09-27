@@ -1,0 +1,10 @@
+﻿logistics_id,expedition_id,station_id,station,year,transport_mode,vessel,operation,quantity,quantity_unit,data_status,source,notes
+L001,ISEA39,BAR,Bharati,2019,Ship,MV Vasiliy Golovnin,Fuel transfer,315,KL,OBSERVED,NCPOR Annual Report 2019-20,Approx. 315 KL fuel transferred at Bharati
+L002,ISEA39,BAR,Bharati,2019,Ship,MV Vasiliy Golovnin,Food/provisions/cargo transfer,,,OBSERVED,NCPOR Annual Report 2019-20,"Food, provisions and other cargo transferred; exact quantity unavailable"
+L003,ISEA39,MAI,Maitri,2020,Ship/overland logistics,MV Vasiliy Golovnin,Fuel and cargo resupply,360,KL,OBSERVED,NCPOR Annual Report 2019-20,Approx. 360 KL fuel associated with Maitri resupply
+L004,ISEA39,MAI,Maitri,2019,Ship,MV Vasiliy Golovnin,Voyage,22000,km,OBSERVED,NCPOR Annual Report 2019-20,Approximate voyage distance reported
+L005,ISEA38,MAI,Maitri,2018,Ship,,Sea-ice delay,27,days,OBSERVED,NCPOR Annual Report,Vessel was trapped in sea ice for approximately 27 days
+L006,ISEA38,MAI,Maitri,2018,Ship,,Fuel delivery,575,KL,OBSERVED,NCPOR Annual Report 2018-19,Jet fuel delivered to Maitri
+L007,ISEA42,BAR,Bharati,2022,Ship,MV Vasiliy Golovnin,Expedition deployment,104,persons,OBSERVED,MoES,"104 personnel deployed across six batches; this is expedition-wide, not station-specific"
+L008,ISEA43,MAI,Maitri,2023,Air/Helicopter,,Expedition logistics,9,persons,OBSERVED,MoES,Separate helicopter crew; do not count as station research personnel
+L009,ISEA43,BAR,Bharati,2023,Ship/Air,,Expedition logistics,42,persons,OBSERVED,MoES,Separate FESCO vessel crew; do not count as station personnel

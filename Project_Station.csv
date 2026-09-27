@@ -1,0 +1,15 @@
+﻿station_id,station,parameter,value,unit,status
+MAI,Maitri,Latitude,70°45′52″ S,—,Confirmed
+MAI,Maitri,Longitude,11°44′03″ E,—,Confirmed
+MAI,Maitri,Elevation,50,m,Confirmed
+MAI,Maitri,Distance from coast,100,km,Confirmed
+MAI,Maitri,Commissioned,1988,year,Confirmed
+BAR,Bharati,Latitude,69°24.41′ S,—,Confirmed
+BAR,Bharati,Longitude,76°11.72′ E,—,Confirmed
+BAR,Bharati,Elevation,35,m,Confirmed
+BAR,Bharati,Commissioned,2012,year,Confirmed
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
